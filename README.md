@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-contact-us](modules/contact-us)
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
+- [django-core](backend/modules)
 
 # Getting started: Frontend
 
